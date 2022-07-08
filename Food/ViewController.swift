@@ -12,16 +12,16 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print(1)
-        print(2)
-        print(3)
+        print(10)
+        print(20)
+        print(30)
         
         
-        print(4)
-        print(5)
+        print(40)
+        print(50)
         
-        print(6)
-        print(7)
+        print(60)
+        print(70)
         print(8)
     }
 
