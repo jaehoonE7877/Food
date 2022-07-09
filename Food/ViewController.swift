@@ -35,6 +35,9 @@ class ViewController: UIViewController {
     }
     
     
+    @IBAction func labelButtonTapped(_ sender: UIButton) {
+        //무엇을 할지 구상
+    }
     
     
     
