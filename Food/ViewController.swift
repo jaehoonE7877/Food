@@ -8,23 +8,35 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    
+   
+    @IBOutlet var menuTextlabel: [UILabel]!
+    
+    
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print(10)
-        print(20)
-        print(30)
         
+        let menuList = ["해산물", "2인분", "이건모노", "한식", "분식", "디저트", "일식", "치킨", "피자", "쌀국수", "중식", "족발.보쌈", "야식", "탕.찜", "도시락", "햄버거"]
         
-        print(40)
-        print(50)
+        for i in 0...15 {
+            menuTextlabel[i].text = menuList[i]
+        }
         
-        print(60)
-        print(70)
-        print(8)
+        for item in menuTextlabel{
+            item.font = UIFont.systemFont(ofSize: 17)
+            item.textColor = .black
+            item.textAlignment = . center
+        }
+        
     }
-
-
+    
+    
+    
+    
+    
+    
 }
-
