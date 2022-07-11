@@ -32,6 +32,7 @@ class ViewController: UIViewController {
             item.textAlignment = . center
         }
         
+        
     }
     
     
