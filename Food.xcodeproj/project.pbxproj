@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		250F18172877B5E800344D84 /* GithubTestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 250F18162877B5E800344D84 /* GithubTestViewController.swift */; };
+		2593AD22287C4CB5002A772D /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2593AD21287C4CB5002A772D /* SecondViewController.swift */; };
 		25ED91DD2872D7C100336090 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25ED91DC2872D7C100336090 /* AppDelegate.swift */; };
 		25ED91DF2872D7C100336090 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25ED91DE2872D7C100336090 /* SceneDelegate.swift */; };
 		25ED91E12872D7C100336090 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25ED91E02872D7C100336090 /* ViewController.swift */; };
@@ -38,6 +39,7 @@
 
 /* Begin PBXFileReference section */
 		250F18162877B5E800344D84 /* GithubTestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GithubTestViewController.swift; sourceTree = "<group>"; };
+		2593AD21287C4CB5002A772D /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		25ED91D92872D7C100336090 /* Food.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Food.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		25ED91DC2872D7C100336090 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		25ED91DE2872D7C100336090 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				25ED91E02872D7C100336090 /* ViewController.swift */,
 				250F18162877B5E800344D84 /* GithubTestViewController.swift */,
 				25ED91E22872D7C100336090 /* Main.storyboard */,
+				2593AD21287C4CB5002A772D /* SecondViewController.swift */,
 				25ED91E52872D7C300336090 /* Assets.xcassets */,
 				25ED920E2872DF2B00336090 /* Launch Screen.storyboard */,
 				25ED91EA2872D7C300336090 /* Info.plist */,
@@ -264,6 +267,7 @@
 				25ED91E12872D7C100336090 /* ViewController.swift in Sources */,
 				25ED91DD2872D7C100336090 /* AppDelegate.swift in Sources */,
 				25ED91DF2872D7C100336090 /* SceneDelegate.swift in Sources */,
+				2593AD22287C4CB5002A772D /* SecondViewController.swift in Sources */,
 				250F18172877B5E800344D84 /* GithubTestViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
